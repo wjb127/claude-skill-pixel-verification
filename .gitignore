@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env*
+.vscode/
+.idea/
+*.log
+screenshots/
+report-pixels-*.html
+report-pixels-*.json
+loop-history.json
