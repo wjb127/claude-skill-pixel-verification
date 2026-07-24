@@ -1,3 +1,12 @@
+---
+name: verify-pixels
+description: |
+  Verify that ad and analytics pixels actually fire — GA4, Meta, GTM, TikTok, Naver, Kakao —
+  by driving a real browser, then produce a screenshot + network evidence package.
+  Includes an auto-fix loop for the common install errors.
+  광고 픽셀·GA4 설치 검증 + 클라이언트 제출용 증거 패키지 생성.
+---
+
 # verify-pixels — 광고 픽셀 / GA4 / GTM 설치 검증 + 증거 확보
 
 광고/분석 스크립트가 **실제로 동작하는지** Playwright로 검증하고, 클라이언트 반박 못할 수준의 **스크린샷 + 네트워크 증거 패키지**를 생성한다.

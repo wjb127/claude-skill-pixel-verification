@@ -1,5 +1,7 @@
 # claude-skill-pixel-verification
 
+> Part of [**claude-skills**](https://github.com/wjb127/claude-skills) — install everything with `/plugin marketplace add wjb127/claude-skills`
+
 A [Claude Code](https://claude.com/claude-code) skill that verifies analytics and ad pixels are **actually firing** on a deployed site — captures screenshot evidence, generates a client-facing HTML report, and optionally **auto-fixes** broken installations in a loop.
 
 > When a client says "the pixel isn't installed", you don't argue. You attach the report.
